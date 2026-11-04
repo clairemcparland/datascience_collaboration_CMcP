@@ -1,7 +1,7 @@
 # Data science collaboration
 
 ## Project question
-What question will our team investigate?
+Does smoking affect blood pressure?
 
 ## Team
 - Student name: analysis and visualisation
